@@ -1,0 +1,26 @@
+{
+  "name": "health-bot",
+  "version": "1.0.0",
+  "description": "Bot to send messages to remember to take a break and maintain health.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laeljd/health-bot-discord.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Lael Jader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laeljd/health-bot-discord/issues"
+  },
+  "homepage": "https://github.com/laeljd/health-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
